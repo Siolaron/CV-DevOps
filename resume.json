@@ -1,0 +1,185 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Samuel Weissgerber",
+    "label": "Actuellement à la recherche d'une alternance à partir d'août 2022 sur Nantes et ses alentours",
+    "image": "",
+    "email": "samuel.weissgerber@hotmail.fr",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "countryCode": "FR",
+      "address": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "samuel-weissgerber-9264981a1",
+        "url": "https://www.linkedin.com/in/samuel-weissgerber-9264981a1/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CNSI Solution & Distribution",
+      "position": "Développeur Full Stack",
+      "startDate": "2021-09-30",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Ajout de catalogue fournisseur automatique et passage de commande automatique et récupération des informations liées à la commande\nMise en place d'un dashboard interne s'affichant sur les écrans des espaces communs",
+      "url": "https://www.linkedin.com/company/cnsi-solution-distribution/",
+      "location": "Plessé, Pays de la Loire, France"
+    },
+    {
+      "name": "HANDFACTS",
+      "position": "Développeur web",
+      "startDate": "2018-12-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Développement et maintenance d'un site web sur Wordpress dans un cadre amateur",
+      "url": "",
+      "location": "Metz, Grand Est, France"
+    },
+    {
+      "name": "INFOBUREAU",
+      "position": "Développeur web",
+      "startDate": "2020-06-30",
+      "endDate": "2020-07-31",
+      "highlights": [],
+      "summary": "Développement d'un site web sur Wordpress\nDéveloppement d'une application web avec le framework Symfony",
+      "url": "https://www.linkedin.com/company/infobureau/",
+      "location": "Metz, Grand Est, France"
+    },
+    {
+      "name": "Leroy Merlin",
+      "position": "Hôte service client",
+      "startDate": "2018-11-30",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "Accueil des clients\nRenseigner les clients sur le magasin et la localisation des produits\nVérifier la satisfaction des clients\nEncaissements, lutte contre la démarque inconnue",
+      "url": "https://www.linkedin.com/company/leroy-merlin/",
+      "location": "Metz, Grand Est, France"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "ECV Digital",
+      "area": "Informatique",
+      "studyType": "Master",
+      "startDate": "2021-12-31",
+      "endDate": "2023-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université de Lorraine",
+      "area": "Informatique",
+      "studyType": "Master en informatique",
+      "startDate": "2021-12-31",
+      "endDate": "2023-12-31",
+      "score": "Réorientation",
+      "courses": []
+    },
+    {
+      "institution": "Université de Lorraine",
+      "area": "Informatique",
+      "studyType": "Licence",
+      "startDate": "2017-12-31",
+      "endDate": "2020-12-31",
+      "score": "Admis",
+      "courses": []
+    },
+    {
+      "institution": "IUT Nancy-Brabois",
+      "area": "",
+      "studyType": "DUT génie biologique option industries alimentaires et biologiques",
+      "startDate": "2016-12-31",
+      "endDate": "2017-12-31",
+      "score": "Arrêt du DUT",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laravel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d’équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Anglais",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Service client",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Framework Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "WordPress",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Allemand"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Anglais"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

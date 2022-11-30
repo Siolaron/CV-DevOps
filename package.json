@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonresume-theme-stackunderflow": "^0.0.20",
+    "resumed": "^1.0.3"
+  }
+}
